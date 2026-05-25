@@ -3,6 +3,9 @@ import argparse
 from modules.github_search import github_search
 from modules.reddit_search import reddit_search
 from modules.analyzer import analyze_results
+from modules.holehe_search import holehe_search
+from modules.sherlock_search import sherlock_search
+
 
 def banner():
 
