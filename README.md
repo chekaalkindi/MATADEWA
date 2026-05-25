@@ -5,7 +5,7 @@ OSINT Intelligence CLI Tool for Kali Linux
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/MATADEWA.git
+git clone https://github.com/chekaalkindi/MATADEWA.git
 
 cd MATADEWA
 
