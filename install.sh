@@ -20,4 +20,9 @@ echo "[+] Pulling AI model..."
 
 ollama pull mistral
 
+echo "[+] Installing Sherlock..."
+
+git clone https://github.com/sherlock-project/sherlock.git
+
+pip3 install -r sherlock/requirements.txt
 echo "[+] Installation completed."
